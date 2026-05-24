@@ -11,7 +11,7 @@ Aspiring software developer with hands-on projects across cloud deployment, DevO
 
 ## Featured Projects
 
-### iii DevOps Internship
+### iii DevOps
 
 Multi-VM cloud deployment for the iii quickstart with an API gateway, private engine and worker VMs, Terraform infrastructure, and model inference support. This project shows cloud architecture, infrastructure-as-code, deployment documentation, and production-hardening awareness.
 
